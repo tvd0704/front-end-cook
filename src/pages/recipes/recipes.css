@@ -1,0 +1,90 @@
+.test {
+  color: red;
+}
+
+.recipe-container {
+  margin-left: 8rem;
+}
+
+.recipe-header {
+  margin-top: 20px;
+}
+
+.recipe-evaluate {
+  display: flex;
+}
+
+.vl {
+  border-left: 2px solid rgb(116, 115, 115);
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.recipe-text1 {
+  margin-top: 10px;
+}
+
+
+.recipe-statistical {
+    display: flex;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.recipe-statistical2 {
+    display: flex;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.recipe-statistical-prep{
+    margin-right: 1.5rem;
+}
+
+.recipe-statistical-rest{
+    margin-right: 1.5rem;
+}
+
+.text-statistical {
+    font-weight: 700;
+}
+
+.statistical {
+    background-color: bisque; 
+    margin-top: 20px;  
+
+    margin-left: 12px;
+}
+
+.recipe-more {
+    font-weight: 700;
+}
+
+.recipes-button {
+    margin-top: 20px;
+    display: flex;
+}
+
+.recipes-button-made {
+    background-color: #d54215;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 25px;
+}
+
+.recipes-button-print {
+margin-top: 10px;
+background-color: #d54215;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}

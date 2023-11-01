@@ -1,0 +1,50 @@
+
+.image-logo {
+  width: 4rem;
+}
+
+
+
+.input_search {
+  border:solid white ;
+  text-align: start;
+  margin-right: 10px;
+}
+
+.image-search {
+    border-radius: 50%;
+  width: 20px;
+}
+
+.search-bar {
+  width: 20%;
+  max-width: 500px;
+  background-color: rgba(102, 101, 101, 0.2);
+  display: flex;
+  border-radius: 60px;
+  margin-right: 12rem;
+}
+
+.search-bar input {
+  background: transparent;
+  flex: 1;
+  border: 0;
+  outline: none;
+  padding: 10px 10px;
+  font-size: 16px;
+  color: black;
+}
+
+.search-bar button img {
+  width: 25px;
+}
+
+.search-bar button {
+  border: 0;
+  border-radius: 50%;
+  width: 40px;
+  height: 45px;
+  background: #59595a;
+  cursor: pointer;
+}
+

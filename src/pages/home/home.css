@@ -1,0 +1,56 @@
+.image1-home {
+    margin-top: 10px;
+    width: 81rem;
+    height: 25rem
+}
+
+.food1-home {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.food2-home {
+    margin-top: 20px;
+ 
+}
+.food2-card {
+    margin-top: 20px;
+}
+
+.food2-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.food3-home {
+    margin-top: 20px;
+}
+
+.image9 {
+    width: 80rem;
+    height: 25rem
+}
+
+.food3-home-text {
+   font-weight: 800;
+   margin-top: 1rem;
+}
+
+.food4-home {
+    margin-top: 20px;
+    display: flex;
+}
+
+.food4-card2 {
+    margin-left: 2rem;
+}
+
+.food4-card{
+    margin-left: 1.5rem;
+}
+
+.what_new {
+    margin-top: 30px;
+}
+
